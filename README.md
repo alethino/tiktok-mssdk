@@ -1,6 +1,11 @@
 # tiktok-mssdk
 tiktok x-ladon, tiktok x-argus, tiktok x-gorgon, tiktok x-khronos, tiktok device register, tiktok api, mssdk
 
+### contact me
+**Contact for api :** [https://t.me/Neo_Galaxy](https://t.me/Neo_Galaxy)
+## telegram: @Neo_Galaxy
+
+
 ## tiktok API
 
 1. login to the user by email and username
